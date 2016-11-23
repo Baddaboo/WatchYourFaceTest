@@ -1,0 +1,7 @@
+framework module NanoTimeKit [extern_c] [system] {
+    umbrella header "NanoTimeKit.h"
+    export *
+    module * {
+        export *
+    }
+}
